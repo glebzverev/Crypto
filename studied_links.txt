@@ -1,0 +1,9 @@
+Алгоритмы хэширования:
+
+SHA3:		https://habr.com/ru/post/534082/
+SHA256: 	https://habr.com/ru/company/selectel/blog/530262/
+
+Криптография:
+
+Общие понятия:  https://habr.com/ru/post/452042/
+RSA: 		https://habr.com/ru/post/534014/
