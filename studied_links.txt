@@ -7,3 +7,6 @@ SHA256: 	https://habr.com/ru/company/selectel/blog/530262/
 
 Общие понятия:  https://habr.com/ru/post/452042/
 RSA: 		https://habr.com/ru/post/534014/
+Элиптические кривые:
+  https://mipt.lectoriy.ru/file/synopsis/pdf/CompTech-InforSecur-M07-Vladim-131026.01.pdf
+  https://habr.com/ru/post/525820/
