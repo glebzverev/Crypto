@@ -21,7 +21,23 @@ RSA: 		https://habr.com/ru/post/534014/
   
   SSH:
     https://tproger.ru/explain/a-top-down-introduction-to-ssh/
+    https://losst.ru/kak-polzovatsya-ssh
+    https://habr.com/ru/post/122445/
+   
+   
+В изучении:
+  Блокчейн:
+    https://youtu.be/pv0WEwkNDPQ
+    https://youtu.be/G2d3cz84sLM
+    https://youtu.be/pxXbj9dZMAM
     
-    
-  В изучении:
+  ECC:
     https://habr.com/ru/post/335906/
+  
+  SSH:
+    https://youtu.be/JdpcvDCxGfQ
+    https://youtu.be/IVHv3eVQa14
+    https://youtu.be/v45p_kJV9i4
+    
+  Прочее: 
+    https://youtu.be/zwvqVppij8E
