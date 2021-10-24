@@ -33,6 +33,7 @@ RSA: 		https://habr.com/ru/post/534014/
     
   ECC:
     https://habr.com/ru/post/335906/
+    https://habr.com/ru/post/191240/
   
   SSH:
     https://youtu.be/JdpcvDCxGfQ
