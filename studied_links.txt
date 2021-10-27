@@ -34,7 +34,8 @@ RSA: 		https://habr.com/ru/post/534014/
   ECC:
     https://habr.com/ru/post/335906/
     https://habr.com/ru/post/191240/
-  
+    https://www.pvsm.ru/informatsionnaya-bezopasnost/41760/print/
+    
   SSH:
     https://youtu.be/JdpcvDCxGfQ
     https://youtu.be/IVHv3eVQa14
@@ -44,6 +45,10 @@ RSA: 		https://habr.com/ru/post/534014/
     https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf
     https://www.johndcook.com/blog/2019/05/11/elliptic-curve-p-384/ ***
     
+  Параметры кривых:
+--------------------
+https://docs.yandex.ru/docs/view?tm=1635335311&tld=ru&lang=en&name=sec2_final.pdf&text=http%3A%2F%2Fwww.secg.org%2Fcollateral%2Fsec2_final.pdf&url=https%3A%2F%2Fperso.univ-rennes1.fr%2Fsylvain.duquesne%2Fmaster%2Fstandards%2Fsec2_final.pdf&lr=213&mime=pdf&l10n=ru&sign=56db865ee67353b1452b2598f1ccf42b&keyno=0&nosw=1&serpParams=tm%3D1635335311%26tld%3Dru%26lang%3Den%26name%3Dsec2_final.pdf%26text%3Dhttp%253A%2F%2Fwww.secg.org%2Fcollateral%2Fsec2_final.pdf%26url%3Dhttps%253A%2F%2Fperso.univ-rennes1.fr%2Fsylvain.duquesne%2Fmaster%2Fstandards%2Fsec2_final.pdf%26lr%3D213%26mime%3Dpdf%26l10n%3Dru%26sign%3D56db865ee67353b1452b2598f1ccf42b%26keyno%3D0%26nosw%3D1
+---------------------
   Бэкдор:
       https://cryptohamster.org/этот-исследователь-говорит-что-у-элли/
   Прочее: 
