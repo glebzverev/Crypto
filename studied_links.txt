@@ -44,5 +44,7 @@ RSA: 		https://habr.com/ru/post/534014/
     https://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.186-4.pdf
     https://www.johndcook.com/blog/2019/05/11/elliptic-curve-p-384/ ***
     
+  Бэкдор:
+      https://cryptohamster.org/этот-исследователь-говорит-что-у-элли/
   Прочее: 
     https://youtu.be/zwvqVppij8E
