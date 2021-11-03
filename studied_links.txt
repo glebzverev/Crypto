@@ -59,3 +59,7 @@ GO:
   https://habr.com/ru/post/219459/
   https://tproger.ru/translations/golang-basics/
   https://github.com/golang/go
+  
+CryptoWallet:
+  https://habr.com/ru/company/wirex/blog/396241/
+  https://cryptonisation.com/luchshie-kriptokoshelki/
