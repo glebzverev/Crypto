@@ -53,3 +53,9 @@ https://docs.yandex.ru/docs/view?tm=1635335311&tld=ru&lang=en&name=sec2_final.pd
       https://cryptohamster.org/этот-исследователь-говорит-что-у-элли/
   Прочее: 
     https://youtu.be/zwvqVppij8E
+
+GO:
+  https://coderlessons.com/articles/go/12-neobkhodimykh-paketov-go-i-bibliotek
+  https://habr.com/ru/post/219459/
+  https://tproger.ru/translations/golang-basics/
+  https://github.com/golang/go
