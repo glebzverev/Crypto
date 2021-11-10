@@ -67,3 +67,8 @@ CryptoWallet:
 Ноды:
   https://zen.yandex.ru/media/crypto_fox/polnaia-noda-bitkoina-chto-eto-i-kak-podniat-uzel-u-sebia--5ad0f5e61410c33175a77b38
   https://forklog.com/ustanavlivaem-polnuyu-nodu-bitkoina-s-bitcoin-core-poshagovoe-rukovodstvo/
+  
+  
+https://habr.com/ru/company/waves/blog/402257/
+https://blockchaindesk.ru/cryptocurrency/emissija-kriptovaljut
+https://mining-cryptocurrency.ru/nodes/
