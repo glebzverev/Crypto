@@ -81,7 +81,7 @@ https://habr.com/ru/post/94901/
 
 11.11.2021 - 17.11.2021
   приватность блокчейна
-    https://habr.com/ru/post/587426/
+    https://habr.com/ru/post/587426/  *
     https://habr.com/ru/news/t/586142/
     https://habr.com/ru/post/588090/
     https://habr.com/ru/company/bitfury/blog/324458/
@@ -94,3 +94,12 @@ https://habr.com/ru/post/94901/
     https://habr.com/ru/company/binarydistrict/blog/348162/
     https://habr.com/ru/post/530922/
     https://habr.com/ru/post/94901/
+
+11.11.2021 - 17.11.2021
+  https://falcon-sign.info/
+  https://csrc.nist.gov/projects/post-quantum-cryptography/round-3-submissions
+  https://en.wikipedia.org/wiki/Elliptic-curve_cryptography#Quantum_computing_attacks
+  https://bitcoinpq.org/#whitepaper
+  https://habr.com/ru/post/528958/
+  https://habr.com/ru/company/ods/blog/571012/ ***
+  https://habr.com/ru/post/217663/
