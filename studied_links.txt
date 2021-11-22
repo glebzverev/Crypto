@@ -103,7 +103,13 @@ https://habr.com/ru/post/94901/
   https://habr.com/ru/post/528958/
   https://habr.com/ru/company/ods/blog/571012/ ***
   https://habr.com/ru/post/217663/
+  https://arxiv.org/pdf/1710.10377v1.pdf
   
   https://vc.ru/crypto/227921-gid-novichka-v-mire-nft  Collab.lland
   https://habr.com/ru/post/543422/
   https://www.theverge.com/2021/9/23/22689806/twitter-bitcoin-lightning-tipping-nft-authentication  Twitter
+  
+  https://arxiv.org/ftp/arxiv/papers/1003/1003.5304.pdf ***
+  https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8309.pdf
+  
+  https://link.springer.com/book/10.1007/3-540-10003-2?page=2#toc
