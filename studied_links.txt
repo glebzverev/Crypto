@@ -95,7 +95,7 @@ https://habr.com/ru/post/94901/
     https://habr.com/ru/post/530922/
     https://habr.com/ru/post/94901/
 
-11.11.2021 - 17.11.2021
+18.11.2021 - 24.11.2021
   https://falcon-sign.info/
   https://csrc.nist.gov/projects/post-quantum-cryptography/round-3-submissions
   https://en.wikipedia.org/wiki/Elliptic-curve_cryptography#Quantum_computing_attacks
@@ -103,3 +103,7 @@ https://habr.com/ru/post/94901/
   https://habr.com/ru/post/528958/
   https://habr.com/ru/company/ods/blog/571012/ ***
   https://habr.com/ru/post/217663/
+  
+  https://vc.ru/crypto/227921-gid-novichka-v-mire-nft  Collab.lland
+  https://habr.com/ru/post/543422/
+  https://www.theverge.com/2021/9/23/22689806/twitter-bitcoin-lightning-tipping-nft-authentication  Twitter
