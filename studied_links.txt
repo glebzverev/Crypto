@@ -113,3 +113,17 @@ https://habr.com/ru/post/94901/
   https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8309.pdf
   
   https://link.springer.com/book/10.1007/3-540-10003-2?page=2#toc
+  
+  https://habr.com/ru/post/398649/
+  https://spectrum.ieee.org/zcash-truly-anonymous-blockchainbased-cryptocurrency
+  https://ru.wikipedia.org/wiki/Доказательство_с_нулевым_разглашением
+  https://coinmarketcap.com/all/views/all/  &&&
+  
+  https://www.chainalysis.com/
+  http://zerocash-project.org/q_and_a#how-are-zerocash-transactions-checked-for-correctness
+
+  https://habr.com/ru/post/477018/
+  
+  https://github.com/mimblewimble/grin/blob/master/doc/switch_commitment.md
+  
+  https://github.com/bogatyy/grin-linkability#faq
