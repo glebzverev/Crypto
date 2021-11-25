@@ -127,3 +127,6 @@ https://habr.com/ru/post/94901/
   https://github.com/mimblewimble/grin/blob/master/doc/switch_commitment.md
   
   https://github.com/bogatyy/grin-linkability#faq
+
+
+https://habr.com/ru/post/255205/
