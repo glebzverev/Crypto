@@ -130,3 +130,10 @@ https://habr.com/ru/post/94901/
 
 
 https://habr.com/ru/post/255205/
+
+NIST:
+  https://habr.com/ru/company/securitycode/blog/237695/
+
+
+MW:
+  https://decenter.org/ru/mimblewimble-ili-kak-rabotaet-blokcheyn-zaklinanie
